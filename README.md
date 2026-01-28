@@ -235,7 +235,7 @@ ISC
 
 ## Author
 
-Created with ❤️ for real-time communication
+Created with ❤️ by Nikhil for real-time communication
 
 ---
 
